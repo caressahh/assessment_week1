@@ -1,0 +1,12 @@
+*Question 4 - Rspec*
+(Please use your text file to put your answers in)
+How do you initialize `rspec` in a folder?
+
+Answer: I would need to create a gem file with gem 'repec'
+I would also have to run bundle install.
+
+*Question:We would ordinarily have written our tests first, then
+written code to make them pass. Why?
+
+Amswer: We would write tests first so we are able to know, specifically,
+what we are testing- and how we would like the program to work.
